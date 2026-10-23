@@ -748,3 +748,10 @@ EMA is usually more stable for sampling after distillation, although evaluation 
 
 - **Assuming score models use the rolling cache**: teacher and critic process the full scored output window directly. The rolling cache is used in generator rollout.
 
+
+
+## References
+
+- **DMD — One-step Diffusion with Distribution Matching Distillation.** Tianwei Yin et al., 2024. [Paper](https://arxiv.org/abs/2311.18828)
+- **DMD2 — Improved Distribution Matching Distillation for Fast Image Synthesis.** Tianwei Yin et al., 2024. [Paper](https://arxiv.org/abs/2405.14867)
+- **Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion.** Xun Huang et al., 2025. [Paper](https://arxiv.org/abs/2506.08009)

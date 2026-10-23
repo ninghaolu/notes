@@ -154,3 +154,9 @@ N_{\text{steps}}
 29{,}881
 \approx 30\text{k steps}
 $$
+
+## References
+
+- **DreamZero — World Action Models are Zero-shot Policies.** Seonghyeon Ye et al., 2026. [Paper](https://arxiv.org/abs/2602.15922)
+- **π₀.₅: a Vision-Language-Action Model with Open-World Generalization.** Kevin Black et al., 2025. [Paper](https://www.physicalintelligence.company/download/pi05.pdf)
+- **OpenWAM — An Open, Modular Exploration Towards Systematic World–Action Model Pretraining (OpenWAM-α).** Yuran Wang et al., 2026. [Paper](https://arxiv.org/abs/2609.07398)
