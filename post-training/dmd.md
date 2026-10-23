@@ -1,4 +1,5 @@
 # DMD Training Notes for World Model Distillation
+Note: Written with AI assistance.
 
 ## Overview
 

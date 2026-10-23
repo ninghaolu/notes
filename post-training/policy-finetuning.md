@@ -1,4 +1,5 @@
 # Fine-tuning robot policies (VLA, WAMs): decisions to make before training
+Note: Written with AI assistance.
 
 This is a collection of questions / decisions I will pay attention to before launching robot policy finetuning. 
 
